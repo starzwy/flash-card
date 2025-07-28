@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é Javascript?',
-    'O javascript é uma linguagem de programação'
+    'Minecraft',
+    'Qual é a função de uma crafting table?',
+    'A função de uma crafting table é confeccionar todo tipo de materiais e blocos que você desejar'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual é a capital do Paraná?',
-    'A capital do Paraná é Curitiba'
+    'Adivinhas',
+    'O que é, o que é? Uma impressora disse pra outra',
+    'Essa folha é tua ou é impressão minha?'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Minecraft',
+    'Onde podemos encontrar uma etiqueta?',
+    'Podemos encontrar etiquetas em baús de minas abandonadas'
 )
